@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BekirKutluhan
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,HTML5,CSS,JavaScript
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me coskunkutluhanbekir@gmail.com
+- 📫 How to contact me coskunkutluhanbekir@gmail.com
 
 <!---
 BekirKutluhan/BekirKutluhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
